@@ -1,0 +1,5 @@
+# kanbanV2
+front/kanban/node_modules
+front/kabnan/dist
+/.idea
+front/kanban/package-lock.json
